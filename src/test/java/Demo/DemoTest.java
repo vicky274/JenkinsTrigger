@@ -16,7 +16,7 @@ public class DemoTest {
 		
 		for(int i=0; i<10; i++){
 			
-			System.out.println("hello jenkins");
+			System.out.println("Executed in jenkins");
 		}
 		
 
