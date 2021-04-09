@@ -1,5 +1,6 @@
+package Demo;
 
-public class DemoTest {
+public class DemoTestClass {
 
 	public static void main(String[] args) {
 		
